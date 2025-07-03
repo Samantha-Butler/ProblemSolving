@@ -1,0 +1,14 @@
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\bin\Debug\net9.0\CodingPractise.exe
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\bin\Debug\net9.0\CodingPractise.deps.json
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\bin\Debug\net9.0\CodingPractise.runtimeconfig.json
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\bin\Debug\net9.0\CodingPractise.dll
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\bin\Debug\net9.0\CodingPractise.pdb
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.AssemblyInfoInputs.cache
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.AssemblyInfo.cs
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.csproj.CoreCompileInputs.cache
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.dll
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\refint\CodingPractise.dll
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.pdb
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.genruntimeconfig.cache
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\ref\CodingPractise.dll
