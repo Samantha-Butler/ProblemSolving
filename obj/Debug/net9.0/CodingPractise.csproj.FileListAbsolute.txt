@@ -12,3 +12,4 @@ C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\refint\Coding
 C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.pdb
 C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.genruntimeconfig.cache
 C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\ref\CodingPractise.dll
+C:\Users\frenz\Desktop\Sam\c sharp\CodingPractise\obj\Debug\net9.0\CodingPractise.sourcelink.json

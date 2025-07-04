@@ -9,5 +9,8 @@ internal class Program
 
         //To find the MAX number from a list, uncomment the below:
         //MaxNumberFinder.Run();
+        
+        //To remove duplicate numbers from a list
+        //RemoveDuplicates.Run();
     }
 }
