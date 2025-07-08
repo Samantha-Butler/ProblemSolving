@@ -10,10 +10,13 @@ internal class Program
         //To find the MAX number from a list, uncomment the below:
         //MaxNumberFinder.Run();
 
-        //To remove duplicate numbers from a list
+        //To remove duplicate numbers from a list, uncomment the below:
         //RemoveDuplicates.Run();
 
         //To run Fizzbuzz, uncomment below:
         //Fizzbuzz.Run();
+
+        //To run RemoveVowels, uncomment below:
+        //RemoveVowels.Run();
     }
 }
